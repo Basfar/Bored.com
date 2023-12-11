@@ -12,5 +12,5 @@ import lombok.NoArgsConstructor;
 public class ChatMessage {
     private String content;
     private String sender;
-    private MessageType messageType;
+    private MessageType type;
 }
